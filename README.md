@@ -35,3 +35,10 @@ Se implementó un esquema de estrella para optimizar el rendimiento y se organiz
 * **Base de Datos:** SQL Server Management Studio (SSMS).
 * **Lenguaje:** T-SQL (Transact-SQL).
 * **Visualización:** Power BI Desktop.
+
+---
+
+
+### 📂 Descarga del Proyecto
+Si deseas explorar el modelo de datos, las relaciones y las medidas DAX detalladas, puedes descargar el archivo original aquí:
+👉 [Descargar archivo .pbix](./Dashboard_Analisis_Inmobiliaria.pbix)
