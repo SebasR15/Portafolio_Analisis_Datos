@@ -16,9 +16,12 @@ He diseñado un proceso ETL (Extracción, Transformación y Carga) siguiendo una
 ## 📈 Fase 2: Visualización en Power BI
 Con el modelo de datos optimizado en SQL, creé un dashboard interactivo para identificar hallazgos clave.
 
-### 🖼️ Vista del Dashboard
-![Captura del Dashboard](./dashboard_screenshot.png) 
-*(Nota: Aquí subiremos tu imagen más adelante)*
+### 🖼️ Dashboard de Análisis Inmobiliario
+![Dashboard](./dashboard_final.png)
+
+### ⚙️ Modelo de Datos y Medidas DAX
+Se implementó un esquema de estrella para optimizar el rendimiento y se organizaron las medidas DAX para facilitar el mantenimiento.
+![Modelo de Datos](./modelo_datos_dax.png)
 
 ### 💡 Hallazgos Clave
 * **Análisis de Precios:** Identificación de las ciudades con mayor costo por pie cuadrado.
